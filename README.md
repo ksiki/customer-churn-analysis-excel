@@ -17,20 +17,20 @@ Goal: identify churn drivers and quantify revenue loss.
 ## Which segment gives the maximum churn?
 Segments with the largest Churn: 
 - Month-to-Month Contract (22%)
-- Basic Plan (24%)
+- Basic Plan (24%)<br>
 The most problematic segment:
 Basic + Month-to-Month
 
 ## Is there a connection between usage and churn?
 - Avg usage NOT churned = 10.94 hours
-- Avg usage churned = 9.46 hours
+- Avg usage churned = 9.46 hours <br>
 There is a negative correlation between usage and churn: the lower the engagement, the higher the probability of churn.
 
 ## Is there a connection between support tickets and churn?
 An increase in the number of support requests correlates with the growth of churn, which may indicate problems with the quality of the product or service.
 
 ## Which contracts are more profitable in terms of retention?
-- The most profitable retention contract is the Annual one.
+- The most profitable retention contract is the Annual one. <br>
 Long-term contracts demonstrate a higher level of customer retention.
 
 ## Raw Dataset
