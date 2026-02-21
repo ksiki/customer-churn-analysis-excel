@@ -53,6 +53,6 @@ Long-term contracts demonstrate a higher level of customer retention.
 
 ## What to include in this repo
 - Final `.xlsx` dashboard in `/excel`
-- Screenshots of dashboard, model, and Power Query steps in `/screenshots`
+- Screenshots of dashboard in `/screenshots`
 - Power Query transformation notes in `/docs/power_query_steps.md`
 - Data Dictionary in `/docs/data_dictionary.md`
